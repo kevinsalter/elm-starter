@@ -1,7 +1,7 @@
 {
     "version": "1.0.0",
     "summary": "elm-starter",
-    "repository": "",
+    "repository": "https://github.com/kevinsalter/elm-starter.git",
     "license": "MIT",
     "source-directories": [
         "src/elm"
